@@ -52,10 +52,10 @@ const createEmployeePayrollJSON = () => {
         _profilePic: '../assets/emp2.png'
       },
       {
-        _name: 'Kynat',
+        _name: 'Kaynat',
         _gender: 'female',
         _department: [
-            'Sales'
+            'Finance'
         ],
         _salary: '400000',
         _startDate: '1 Nov 2020',
